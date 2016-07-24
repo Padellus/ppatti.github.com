@@ -17,6 +17,7 @@ body {
 #main .container {
     margin-top:10px;
     background: url(images/header.jpg) no-repeat;
+    padding-bottom: 40px;
 }
 
 #logo {
@@ -58,7 +59,6 @@ ul#menu li {
     float: left;
     padding-left: 30px;
     padding-right: 75px;
-    width: 50px;
 }
 
 #content h2 {  
@@ -111,8 +111,7 @@ ul#menu li {
 }
 
 #content {  
-    width: 510px;  
-    float: left;  
+    width: 510px;
 }  
   
 #sidebar {  
