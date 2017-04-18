@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post!"
-date:   2017-04-16 15:07:00 -0400
+date:   2017-04-16 15:07:00 -0000
 tags:   meta
 ---
 Hi! Welcome. I don't know what this site will become, but I'm glad you're along for the ride.
