@@ -11,3 +11,4 @@ Some things I like:
 * Tech, programming, cyberspace, and the interwebs
 * Mindfulness and learning new things
 * Music. Alternative, strings, ambient, electronic
+* Dogs. Want a husky ASAP
